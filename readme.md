@@ -8,6 +8,7 @@ Instructions:
 Cape-GPT is the extension over chat-GPT to increase its power 💪and help users 🙎‍♂️ to reach its potential.❤️‍🔥
 It has 7+ features 😲 integrated in it which will make your user experience to the next level.😎
 
+video link: https://youtu.be/Mi2hoXdZduQ
 Features Timestamps: ⌚👇
 0:00 - Speech To Text🗣️
 4:07 - Live Read Out Feature 📕
